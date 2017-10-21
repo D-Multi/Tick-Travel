@@ -10,4 +10,4 @@ After you have recieved a confirmation code in an email, paset it in a comment <
 Under your comment, you will recieve a reply from <a href="https://github.com/dguis/">dguis</a> granting you access to the repository.
 
 ## 4. Commit!
-Now you are all set! Commit whenever you want, but make sure to follow the <a href="https://github.com/dguis/Tick-Travel/blob/master/CONTRIBUTING.md">Contributing guidelines</a>! :)
+Now you are all set! Commit whenever you want, but make sure to follow the <a href="https://github.com/dguis/Tick-Travel/blob/master/CONTRIBUTING.md">Contributing guidelines</a>! :smiley:
