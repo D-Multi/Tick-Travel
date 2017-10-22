@@ -6,3 +6,4 @@ To commit, please first request access, (Insructions at <a href="https://github.
 | Windows | Mac | Linux |
 |---------|-----|-------|
 | Supported | Not Supported | Not Supported |
+| ![Build status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=Supported) | ![Build status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=Not%20Supported) | ![Build status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=Not%20Supported) |
