@@ -4,6 +4,6 @@ A D-Multi adventure game where you are a young clock going on a dangerous advent
 To commit, please first request access, (Insructions at <a href="https://github.com/dguis/Tick-Travel/blob/master/Access.md">the access page</a>) and review the <a href="https://github.com/dguis/Tick-Travel/blob/master/CONTRIBUTING.md">contributing guidelines</a>.
 # Versions
 
-| Windows | Mac | Linux | Android | Kindle |
+| <a href="#">Windows</a> | <a href="#">Mac</a> | <a href="#">Linux</a> | <a href="#">Android</a> | <a href="#">Kindle</a> |
 |---------|-----|-------|---------|--------|
 | ![Build status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=Supported) | ![Build status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=Not%20Supported) | ![Build status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=Not%20Supported) | ![Build status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=In%20Progress) | ![Build status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=In%20Progress) |
