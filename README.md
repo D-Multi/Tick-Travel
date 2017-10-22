@@ -1,3 +1,5 @@
+# _**Notice**_
+Dev Team help needed for ground. Follow instructions <a href="https://github.com/D-Multi/Tick-Travel/issues/5">here</a>.
 # Tick-Travel
 A D-Multi adventure game where you are a young clock going on a dangerous adventure.
 ***
