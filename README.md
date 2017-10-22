@@ -1,7 +1,7 @@
 # Tick-Travel
 A D-Multi adventure game where you are a young clock going on a dangerous adventure.
 ***
-To commit, please first request access, (Insructions at <a href="https://github.com/dguis/Tick-Travel/blob/master/Access.md">the access page</a>) and review the <a href="https://github.com/dguis/Tick-Travel/blob/master/CONTRIBUTE.md">contributing guidelines</a>.
+To commit, please first request access, (Insructions at <a href="https://github.com/dguis/Tick-Travel/blob/master/Access.md">the access page</a>) and review the <a href="https://github.com/dguis/Tick-Travel/blob/master/CONTRIBUTING.md">contributing guidelines</a>.
 # Versions
 
 | Windows | Mac | Linux | Android | Kindle |
