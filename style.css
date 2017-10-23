@@ -1,4 +1,20 @@
+nav{
+font-family: Impact, serif;
+}
+nav a{
+color: darkblue;
+text-decoration: none;
+}
+nav a:hover{
+color: #3333ff;
+}
+nav span{
+color: black;
+}
 h1{
+
 text-align: center;
+
 color: red;
+
 }
