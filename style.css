@@ -1,20 +1,73 @@
 nav{
-font-family: Impact, serif;
+font-size: 25px;
+font-family: Bodoni MT Black, Impact, cursive, serif, sans-serif;
+padding: 5px;
+background-color: black;
 }
 nav a{
 color: darkblue;
 text-decoration: none;
 }
+nav span{
+color: darkgray;
+}
 nav a:hover{
 color: #3333ff;
 }
-nav span{
-color: black;
+nav .selected, .info{
+color: #0080FF;
+cursor: pointer;
 }
 h1{
-
+font-size: 50px;
 text-align: center;
-
+font-family: Impact, serif;
 color: red;
+text-shadow: 3px 3px 3px #800000;
+}
+.dropdown{
+  box-shadow: 5px 5px 5px gray;
+  border: 1px solid black;
+  padding: 5px 10px 5px 10px;
+  border-radius: 5px;
+  background-color: WhiteSmoke;
+  /*Background image
+  background-image: url("https://dguis.github.io/D-Kids/logo.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;*/
+}
 
+.dropdown a{
+text-decoration: none;
+color: #3333ff;
+font-family: Bodoni MT Black, Impact, cursive, serif, sans-serif;
+font-style: oblique;
+}
+image{
+display: inline-block;
+}
+*{
+margin: 0;
+}
+.page h2{
+font-size: 20px;
+font-family: impact, sans-serif;
+text-shadow: 1.5px 1.5px gray;
+}
+.page p, .page h1, .page h2, .page h3{
+text-align: center;
+padding: 0px 10px 0px 10px;
+}
+.page h2 a{
+text-decoration: none;
+text-shadow: 1.5px 1.5px lightblue;
+}
+.page p{
+font-family: impact, sans-serif;
+}
+.page p a{
+text-decoration: none;
+}
+.dropdown a{
+line-height: 1.25;
 }

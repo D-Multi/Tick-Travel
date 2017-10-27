@@ -8,12 +8,8 @@ function I () {
   DM.style = "display: inline; position: absolute;";
   DM.style.left = buttonx+'px';
   DM.style.top = buttony+'px';
-  Info = document.getElementById('info');
-  Info.style = "color: #3333ff;";
 }
 function IC () {
   DM = document.getElementById('IN');
   DM.style = "display: none;";
-  Info = document.getElementById('info');
-  Info.style = "color: darkblue;";
 }
