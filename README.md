@@ -1,5 +1,5 @@
 # _**Notice**_
-Dev Team help needed for ground. Follow instructions <a href="https://github.com/D-Multi/Tick-Travel/issues/5">here</a>.
+Dev Team help needed for level graphics. Follow instructions check out <a href="https://github.com/D-Multi/Tick-Travel/projects/3">the Level Design To Do list</a>, and complete anything on the list.
 # Tick-Travel
 A D-Multi adventure game where you are a young clock going on a dangerous adventure.
 ***
